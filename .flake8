@@ -7,4 +7,16 @@ exclude =
     versioneer.py,
     EPICS_CA/_version.py,
     docs/source/conf.py
+ignore =
+    E231,
+    E302,
+    E701,
+    E704,
+    E226,
+    E261,
+    W291,
+    E241,
+    E228, # whitespace around modulo operator
+    E305, # expected 2 blank lines after class or function definition
+    W293 # blank line contains whitespace
 max-line-length = 115
