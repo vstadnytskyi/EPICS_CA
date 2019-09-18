@@ -1,6 +1,6 @@
-===============================
+===========================================
 EPICS Channel Access Protocol Python Module
-===============================
+===========================================
 
 .. image:: https://img.shields.io/travis/friedrich-schotte/EPICS_CA.svg
         :target: https://travis-ci.org/friedrich-schotte/EPICS_CA
