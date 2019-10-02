@@ -65,4 +65,5 @@ setup(
         'Natural Language :: English',
         'Programming Language :: Python :: 3',
     ],
+    extra_path="EPICS_CA",
 )
