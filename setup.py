@@ -42,7 +42,7 @@ setup(
     author="Friedrich Schotte",
     author_email='friedrich.schotte@gmail.com',
     url='https://github.com/friedrich-schotte/EPICS_CA',
-    python_requires='>={}'.format('.'.join(str(n) for n in min_version)),
+    python_requires='>=2.7'
     packages=find_packages(exclude=['docs', 'tests']),
     entry_points={
         'console_scripts': [
